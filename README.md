@@ -1,1 +1,1 @@
-# -K-pop-Female-Idol-Faces-Classification
+# K-pop-Female-Idol-Faces-Classification
